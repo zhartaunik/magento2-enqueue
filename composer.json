@@ -1,5 +1,5 @@
 {
-  "name": "enqueue/magento2-enqueue",
+  "name": "zhartaunik/magento2-enqueue",
   "type": "magento2-module",
   "description": "Message Queue solutions for Magento2. Supports RabbitMQ, AMQP, STOMP, Amazon SQS, Kafka, Redis, Google PubSub, Gearman, Beanstalk, Google PubSub",
   "license": "MIT",
